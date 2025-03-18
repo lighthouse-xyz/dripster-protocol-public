@@ -1,0 +1,85 @@
+Security Policy
+Reporting a Vulnerability
+The security of our Solana program is a top priority. If you believe you've found a security vulnerability, we appreciate your help in disclosing it to us responsibly.
+Please do the following:
+
+Do not disclose the vulnerability publicly until we've had a chance to address it.
+Email your findings to alex@lighthouse.world. If possible, encrypt your message with our PGP key (available below).
+Provide detailed information about the vulnerability, including:
+
+A description of the vulnerability
+Steps to reproduce the issue
+Potential impact
+Any suggestions for remediation if you have them
+
+What to expect
+
+We will acknowledge receipt of your vulnerability report within 48 hours.
+We will provide a preliminary assessment of the report within 7 days.
+We will keep you informed about our progress throughout the process.
+We will notify you when the vulnerability has been fixed.
+
+Bug Bounty Program
+PGP Key
+You can use the following PGP key to encrypt your vulnerability reports:
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+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
+=MlbT
+-----END PGP PUBLIC KEY BLOCK-----
+
+Security.txt
+Our security.txt file is available at:
+https://github.com/lighthouse-xyz/dripster-protocol-public/blob/master/security.txt
+
+Acknowledgments
+We would like to thank the following security researchers for their contributions:
+- J4X
+- Peakbolt
+
+[List will be updated as contributors help improve security]
