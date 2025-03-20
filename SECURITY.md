@@ -79,7 +79,6 @@ https://github.com/lighthouse-xyz/dripster-protocol-public/blob/master/security.
 
 Acknowledgments
 We would like to thank the following security researchers for their contributions:
-- J4X
-- Peakbolt
+- Zenith
 
 [List will be updated as contributors help improve security]
